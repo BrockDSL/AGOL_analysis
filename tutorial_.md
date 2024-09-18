@@ -54,6 +54,12 @@ At the bottom of each toolbar there is a 'collapse/expand' button ![collapse_exp
 
 ---
 
+### Section 3: Finding Data
+
+1. Open a new tab in Chrome and search for "Niagara Open Data". The result is a portal for open data as it relates to the Niagara Region.
+2. Search the portal using the term "Licensed Child Care"
+3. Click the title for the ArcGIS GeoService entry
+4. Right-click the URL and select <b>copy link address</b>
 
 
 
