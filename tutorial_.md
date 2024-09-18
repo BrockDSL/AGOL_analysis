@@ -60,10 +60,11 @@ At the bottom of each toolbar there is a 'collapse/expand' button ![collapse_exp
 2. Search the portal using the term "Licensed Child Care"
 3. Click the title for *Licensed Child Care Centres*
 4. Click the title for the *ArcGIS GeoService* entry
-<div>![image](https://github.com/user-attachments/assets/0a532876-ec7a-46c0-a2e1-9211f97f6b34)</div>
+
+<div style="border: 2px solid black;">![image](https://github.com/user-attachments/assets/0a532876-ec7a-46c0-a2e1-9211f97f6b34)</div>
 
 5. Right-click the URL and select **copy link address**
-
+---
 ![image](https://github.com/user-attachments/assets/905c1842-a258-4080-9093-b4e01d37b34b)
 
 ---
