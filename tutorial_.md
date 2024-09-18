@@ -35,12 +35,8 @@ The New Map Viewer is composed of a dark toolbar on the left and a light toolbar
 2. At the bottom of each toolbar there is a 'collapse/expand' button ![collapse expand](https://github.com/user-attachments/assets/5fc20556-3a72-4524-a3aa-c82e499db7e3)Click these buttons to collapse or expand the menus.  
 3. Click the 'hide/show interface' button ![hide show interface](https://github.com/user-attachments/assets/862521a0-112f-4819-996c-408b8b6a9f26)
  (bottom right of the map view) to hide/show all menus and panels at once.  
-4. To search for a location, click the magnifying glass ![search tool](https://github.com/user-attachments/assets/916f116a-04ba-46f1-8695-50bc431fcee6)
-
- from the lower right options. Type in a place or address and make a selection from the results. The map zooms to the location.  
+4. To search for a location, click the magnifying glass ![search tool](https://github.com/user-attachments/assets/916f116a-04ba-46f1-8695-50bc431fcee6) from the lower right options. Type in a place or address and make a selection from the results. The map zooms to the location.  
 5. Use the mouse scroll wheel or the zoom tools to pan and zoom on the map.
-
-   
 6. The map viewer provides ready-made basemaps to choose from. Click the basemap button ![basemap](https://github.com/user-attachments/assets/19cfb864-e626-4c41-a079-f1f9feea030f)
  on the left and explore the options. Before continuing, select the *Light Gray Canvas* option.  
 7. At the top of the Basemap listing options, click **Current basemap >**  
@@ -51,7 +47,7 @@ The New Map Viewer is composed of a dark toolbar on the left and a light toolbar
 
 ![image](https://user-images.githubusercontent.com/45638590/167662115-387d0255-a598-4264-9da9-7823f56d6636.png) 
     
-9. To save your map, click the Save > Save as button ![save](https://github.com/user-attachments/assets/f92f9236-bf20-4853-a5a3-cff3c71e8dca)
+9. To save your map, click the **Save > Save as** button ![save](https://github.com/user-attachments/assets/f92f9236-bf20-4853-a5a3-cff3c71e8dca)
 
 10. Enter a unique map name that does not include special characters. 
 11. Click save. All of your work is saved in the cloud, making it accessible from any device with internet connection.  
