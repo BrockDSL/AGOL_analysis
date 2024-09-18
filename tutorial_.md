@@ -9,29 +9,29 @@ If you are an organization affiliate (i.e. a member of the Brock University comm
 3. Click **Your ArcGIS Organization's URL**  
 4. Complete the URL by entering the text **brock**  
 
-    ![Brock organization](./Intro-to-AGOL-images/agol01.jpg)  
+   ![Brock organization](https://github.com/user-attachments/assets/f0e4734a-af23-4c53-8dbe-480d79e5048e)
 
-5. Click **Continue**
-6. Click **BROCK UNIVERSITY**    
-7. This action should direct you to the Brock University authentication page. Enter your Brock credentials and click **Sign in**.  
 
-    ![AGOL homepage](./Intro-to-AGOL-images/agol02.jpg)  
-    
+6. Click **Continue**
+7. Click **BROCK UNIVERSITY**    
+8. This action should direct you to the Brock University authentication page. Enter your Brock credentials and click **Sign in**.  
+
+   ![AGOL homepage](https://github.com/user-attachments/assets/278a64c5-8e09-43a8-98f3-ba8f89c476fb)
+
+
 ---
 
 ### Section 2: The Interface  
 
 1. From the menus at the top, click **Map**. This action opens the default map viewer and should look like this:  
 
-    ![map interface](./Intro-to-AGOL-images/agol03.jpg)  
-    
+   ![map interface](https://github.com/user-attachments/assets/f3a9bb80-913c-41be-82b5-f91160245f9d)
+   
 **NOTE: If the default viewer does not look like the above screenshot, you may have to click 'Open in new map viewer' at the top right.**
 
 The New Map Viewer is composed of a dark toolbar on the left and a light toolbar on the right. Depending on the tool you have selected, various panels will appear.  
 
-At the bottom of each toolbar there is a 'collapse/expand' button ![collapse_expand](./Intro-to-AGOL-images/agol04.jpg). 
-
-2. Click these buttons to collapse or expand the menus.  
+2. At the bottom of each toolbar there is a 'collapse/expand' button ![collapse expand](https://github.com/user-attachments/assets/5fc20556-3a72-4524-a3aa-c82e499db7e3)Click these buttons to collapse or expand the menus.  
 3. Click the 'hide/show interface' button ![hide interface](./Intro-to-AGOL-images/agol05.jpg) (bottom right of the map view) to hide/show all menus and panels at once.  
 4. To search for a location, click the magnifying glass ![search tool magnifying glass](https://user-images.githubusercontent.com/45638590/235160670-63d561d6-3570-47f4-af38-b3ab24c5963c.png)
  from the lower right options. Type in a place or address and make a selection from the results. ![search](./Intro-to-AGOL-images/agol07.jpg) The map zooms to the location.  
@@ -61,7 +61,7 @@ At the bottom of each toolbar there is a 'collapse/expand' button ![collapse_exp
 3. Click the title for *Licensed Child Care Centres*
 4. Click the title for the *ArcGIS GeoService* entry
 
-<div style="border: 2px solid black;">![image](https://github.com/user-attachments/assets/0a532876-ec7a-46c0-a2e1-9211f97f6b34)</div>
+![image showing ArcGIS GeoService entry](https://github.com/user-attachments/assets/0a532876-ec7a-46c0-a2e1-9211f97f6b34)
 
 5. Right-click the URL and select **copy link address**
 ---
