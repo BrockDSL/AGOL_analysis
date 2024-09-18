@@ -58,11 +58,11 @@ At the bottom of each toolbar there is a 'collapse/expand' button ![collapse_exp
 
 1. Open a new tab in Chrome and search for "Niagara Open Data". The result is a portal for open data as it relates to the Niagara Region.
 2. Search the portal using the term "Licensed Child Care"
-3. Click the title for <i>Licensed Child Care Centres</i>
-4. Click the title for the <i>ArcGIS GeoService</i> entry
-![image](https://github.com/user-attachments/assets/0a532876-ec7a-46c0-a2e1-9211f97f6b34)
+3. Click the title for *Licensed Child Care Centres*
+4. Click the title for the *ArcGIS GeoService* entry
+<div>![image](https://github.com/user-attachments/assets/0a532876-ec7a-46c0-a2e1-9211f97f6b34)</div>
 
-5. Right-click the URL and select <b>copy link address</b>
+5. Right-click the URL and select **copy link address**
 
 ![image](https://github.com/user-attachments/assets/905c1842-a258-4080-9093-b4e01d37b34b)
 
@@ -71,10 +71,10 @@ At the bottom of each toolbar there is a 'collapse/expand' button ![collapse_exp
 ### Section 4: Adding a GeoService to ArcGIS Online
 
 1. Go back to the tab for ArcGIS Online
-2. Click <b>Map</b> to open the Map viewer
-3. Click ![image](https://github.com/user-attachments/assets/ea29e4da-56ef-48ed-96ac-8f7260473987) > <b>add layer from URL</b>
-4. Use <b>Ctrl-V</b> to paste the URL from the clipboard
-5. Click <b>Add to map</b>
+2. Click **Map** to open the Map viewer (if necessary).
+3. Click ![image](https://github.com/user-attachments/assets/ea29e4da-56ef-48ed-96ac-8f7260473987) > **Add layer from URL**
+4. Use **Ctrl-V** to paste the URL from the clipboard
+5. Click **Add to map**
 
 
 
