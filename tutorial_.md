@@ -133,13 +133,14 @@ Alternately, the data can be queried by using various "Select" tools such as *Fi
 6. Click Style Options > Colour
 7. Here, you can select a different colour ramp and adjust the shape:
 8. Under the Shape slider, shift the option to the middle so the symbol looks more like a donut.
-9.
-10. ![image](https://github.com/user-attachments/assets/5f3c227e-ed40-42dc-bfc9-15fe7a8f28f0)
+9. ![image](https://github.com/user-attachments/assets/5f3c227e-ed40-42dc-bfc9-15fe7a8f28f0)
 
-![image](https://github.com/user-attachments/assets/62216650-32df-4414-83ea-43929fa21935)
+![symbol image](https://github.com/user-attachments/assets/62216650-32df-4414-83ea-43929fa21935)
 
 
-11. Click Done, done and done. The symbol now represents the total number of spaces (size) and the break down of those spaces by age (colour).
+10. Click Done, done and done. The symbol now represents the total number of spaces (size) and the break down of those spaces by age (colour).
+11. To view the legend, click ![legend image](https://github.com/user-attachments/assets/7f5b54d5-029d-42ab-8317-54c96bd53a2b)
+
 
 
 
