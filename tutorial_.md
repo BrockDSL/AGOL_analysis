@@ -178,7 +178,17 @@ Using the newly created polygons, we will use the enrichment tool to calculate s
 
 ![image](https://github.com/user-attachments/assets/20798c4d-d3cd-4d62-b490-f6aa4c1146ef)
 
-14. 
+### Section 10: Make it "POP"!
+
+This section is optional but your map will thank you for paying a bit of attention to the stylization of layers and basemaps.
+
+1. Click Basemap ![image](https://github.com/user-attachments/assets/407d78ce-629f-4939-ba92-203dec741831)
+ and selct **Dark Gray Canvas**
+2. Select the point layer representing child care centres and drag it up in the Contents listing.
+3. Click Effects and toggle on **Drop Shadow**
+4. Select the enriched layer and click **Properties** > Blending > Contrast > Overlay
+
+
 
 
 
