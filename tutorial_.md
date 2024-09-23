@@ -76,9 +76,32 @@ The New Map Viewer is composed of a dark toolbar on the left and a light toolbar
 3. Click ![image](https://github.com/user-attachments/assets/ea29e4da-56ef-48ed-96ac-8f7260473987) > **Add layer from URL**
 4. Use **Ctrl-V** to paste the URL from the clipboard
 5. Click **Add to map**
-6. The Licensed Child Care facilities will be displayed as points on the map using a circular point symbol and colour.
+6. The Licensed Child Care facilities will be displayed as points on the map using a circular point symbol and random colour.
 
 ![image](https://github.com/user-attachments/assets/9f7d1ad5-6658-4680-a952-d289675242f2)
+
+### Section 5: Applying Filters
+
+The default view shows Licensed Child Care Facilities for the entire region. Using the attached attributes, we can filter the data to only show records that meet certain criteria.
+
+1. With the newly added layer selected (you will know it is selected by the blue vertical bar to the left of the layer name in the Contents listing), click the Filter tool from the options on the right.
+2. Click + Add New
+3. Create the "Condition" statement: Municipality is St. Catharines
+4. Click Save
+5. The map now reflects data for just the city of St. Catharines.
+
+### Section 6: Find by Attributes
+
+Alternately, the data can be queried by using various "Select" tools such as *Find by attributes and location*
+
+1. Click Analysis Tools
+2. Click Tools
+3. Search using keyword "Find"
+4. Select *Find by attributes and location*
+5. Enter the query statement **NBH_ID=ST8** (this tells the software to isolate only the St. Catharines neighbourhood with I.D. "ST8")
+6. Provide an output name
+7. Estimate credits to see the 'cost' of this tool. Then click **Run**.
+8. A new feature layer is created reflecting only licensed child care centres in neighbourhood 8.
 
 
 
