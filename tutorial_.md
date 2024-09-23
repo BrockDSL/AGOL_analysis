@@ -183,25 +183,31 @@ Using the newly created polygons, we will use the enrichment tool to calculate s
 This section is optional but your map will thank you for paying a bit of attention to the stylization of layers and basemaps.
 
 1. Click Basemap ![image](https://github.com/user-attachments/assets/407d78ce-629f-4939-ba92-203dec741831)
- and selct **Dark Gray Canvas**
-2. Select the point layer representing child care centres and drag it up in the Contents listing.
-3. Click Effects and toggle on **Drop Shadow**
-4. Select the enriched layer and click **Properties** > Blending > Contrast > Overlay
+ and select **Dark Gray Canvas**
+2. Click Layers ![image](https://github.com/user-attachments/assets/499d6ac1-2e23-4b10-b351-5e41645b694f) and select the point layer representing child care centres and drag it up in the Contents listing.
+3. Click Effects ![image](https://github.com/user-attachments/assets/c9a7a239-1075-424e-a58d-83d532f100fc) and toggle on **Drop Shadow**
+4. Select the enriched layer and click **Properties** ![image](https://github.com/user-attachments/assets/09f4370d-cb5f-4b20-a08b-e4dcb86494a2) > Blending > Contrast > Overlay
+
+![image](https://github.com/user-attachments/assets/2158e5fa-1197-48b1-a82b-04cc8a6eb9c9)
+
+
+### Section 11: Labels
+
+Finally, we will add some labels and save our map.
+
+1. Select the layer representing child care facilities.
+2. Click **Labels**
+3. Toggle *Enable labels*
+4. Add Label Class > Select label field **Program**
+
+![image](https://github.com/user-attachments/assets/69bf5476-4914-4ff2-8338-13e9a33dc54f)
+
+5. Save your map. ![image](https://github.com/user-attachments/assets/6f9b2b34-888e-4def-92d2-70ec01c2b3e9)
+
+6. Update the share options, if prompted.
+
+CONGRATULATIONS! You've successfully completed this tutorial introducing ArcGIS Online Analysis Tools! For more information, visit the [Esri documentation](https://doc.arcgis.com/en/arcgis-online/analyze/use-analysis-tools.htm) 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-<!--- Please use reference style images so that it is easier to update pictures later --->
-
-[imglogo]: INSERT LOGO FILENAME HERE
 
