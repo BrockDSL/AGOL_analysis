@@ -117,8 +117,29 @@ Alternately, the data can be queried by using various "Select" tools such as *Fi
 ![image](https://github.com/user-attachments/assets/fd7a8f46-f516-414c-afd7-fdd5aa8b20dd)
 
 
+### Section 7: Style by Category
+
+1. Select the query output layer from the previous section.
+2. Click Styles. ![image](https://github.com/user-attachments/assets/1b45d1b0-dfe0-43fc-896a-46cc5fa62842)
+
+3. Click + Field to add each field associated with an age group.
+
+![image](https://github.com/user-attachments/assets/4433888b-9c85-44c7-ad5d-01c9c3393039)
+
+![image](https://github.com/user-attachments/assets/71813786-e212-4570-b895-20acaeab6d68)
+
+4. Click Add.
+5. Scroll down (if necessary) and click **Charts and Size"" ![image](https://github.com/user-attachments/assets/6b2b4032-2bd2-4297-8aea-60c18c023a7e)
+6. Click Style Options > Colour
+7. Here, you can select a different colour ramp and adjust the shape:
+8. Under the Shape slider, shift the option to the middle so the symbol looks more like a donut.
+9.
+10. ![image](https://github.com/user-attachments/assets/5f3c227e-ed40-42dc-bfc9-15fe7a8f28f0)
+
+![image](https://github.com/user-attachments/assets/62216650-32df-4414-83ea-43929fa21935)
 
 
+11. Click Done, done and done. The symbol now represents the total number of spaces (size) and the break down of those spaces by age.
 
 
 
