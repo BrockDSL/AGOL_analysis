@@ -76,6 +76,12 @@ The New Map Viewer is composed of a dark toolbar on the left and a light toolbar
 3. Click ![image](https://github.com/user-attachments/assets/ea29e4da-56ef-48ed-96ac-8f7260473987) > **Add layer from URL**
 4. Use **Ctrl-V** to paste the URL from the clipboard
 5. Click **Add to map**
+6. The Licensed Child Care facilities will be displayed as points on the map using a circular point symbol and colour.
+
+![image](https://github.com/user-attachments/assets/9f7d1ad5-6658-4680-a952-d289675242f2)
+
+
+
 
 
 
