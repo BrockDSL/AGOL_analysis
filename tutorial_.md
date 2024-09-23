@@ -139,7 +139,7 @@ Alternately, the data can be queried by using various "Select" tools such as *Fi
 ![image](https://github.com/user-attachments/assets/62216650-32df-4414-83ea-43929fa21935)
 
 
-11. Click Done, done and done. The symbol now represents the total number of spaces (size) and the break down of those spaces by age.
+11. Click Done, done and done. The symbol now represents the total number of spaces (size) and the break down of those spaces by age (colour).
 
 
 
