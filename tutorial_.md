@@ -141,6 +141,17 @@ Alternately, the data can be queried by using various "Select" tools such as *Fi
 10. Click Done, done and done. The symbol now represents the total number of spaces (size) and the break down of those spaces by age (colour).
 11. To view the legend, click ![legend image](https://github.com/user-attachments/assets/7f5b54d5-029d-42ab-8317-54c96bd53a2b)
 
+![symbols and legend image](https://github.com/user-attachments/assets/4ca436e6-f6f9-489e-96ad-b17c8630d5c2)
+
+### Section 8: Drive Analysis
+
+1. Click the Analyis tools.
+2. Search by keyword **Drive**
+3. Select *Generate travel areas*
+4. The input layer is the layer representing Neighbourhood 8.
+5. Cut-offs > 2, click **+ Add** (this represents a 2 minute drive time)
+6. Enter a name for the Result layer
+7. Estimate credits and click **Run**.
 
 
 
