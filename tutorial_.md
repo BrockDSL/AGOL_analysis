@@ -87,21 +87,37 @@ The default view shows Licensed Child Care Facilities for the entire region. Usi
 1. With the newly added layer selected (you will know it is selected by the blue vertical bar to the left of the layer name in the Contents listing), click the Filter tool from the options on the right.
 2. Click + Add New
 3. Create the "Condition" statement: Municipality is St. Catharines
-4. Click Save
+4. Click Save.
 5. The map now reflects data for just the city of St. Catharines.
 
 ### Section 6: Find by Attributes
 
 Alternately, the data can be queried by using various "Select" tools such as *Find by attributes and location*
 
-1. Click Analysis Tools
-2. Click Tools
-3. Search using keyword "Find"
-4. Select *Find by attributes and location*
-5. Enter the query statement **NBH_ID=ST8** (this tells the software to isolate only the St. Catharines neighbourhood with I.D. "ST8")
-6. Provide an output name
-7. Estimate credits to see the 'cost' of this tool. Then click **Run**.
-8. A new feature layer is created reflecting only licensed child care centres in neighbourhood 8.
+1. Click Analysis Tools ![image](https://github.com/user-attachments/assets/d81e3294-6afd-408b-bbd8-78e0f09a3a8c)
+
+2. Click Tools.
+3. Search using keyword "Find".
+4. Select *Find by attributes and location* ![image](https://github.com/user-attachments/assets/29e351fd-a8bb-4e17-9660-5a8f5962e275)
+
+5. Build a new query. The Query builder opens.
+6. Select the layer you want to build the query on (i.e. Licensed Child Care Centres)
+7. Select "Attribute Expression" and click Next.
+8. Enter the query statement **NBH_ID=ST8** (this tells the software to isolate only the St. Catharines neighbourhood with I.D. "ST8")
+
+![image](https://github.com/user-attachments/assets/d0968341-d059-442e-9ea8-3c9467d7cbf7)
+
+9. Click Add.
+10. Provide an output name.
+11. Estimate credits to see the 'cost' of this tool. Then click **Run**.
+12. A new feature layer is created reflecting only licensed child care centres in neighbourhood 8.
+13. Turn off (click the eyeball icon beside the layer) the original child care data layer.
+14. Use the zoom tools or mouse scroll wheel to zoom to the neighbourhood. It should look like this:
+
+![image](https://github.com/user-attachments/assets/fd7a8f46-f516-414c-afd7-fdd5aa8b20dd)
+
+
+
 
 
 
