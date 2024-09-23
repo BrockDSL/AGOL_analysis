@@ -145,13 +145,28 @@ Alternately, the data can be queried by using various "Select" tools such as *Fi
 
 ### Section 8: Drive Analysis
 
-1. Click the Analyis tools.
+1. Click the Analyis tools. (You may have to click the little back arrow to exit the active tool)
 2. Search by keyword **Drive**
 3. Select *Generate travel areas*
 4. The input layer is the layer representing Neighbourhood 8.
 5. Cut-offs > 2, click **+ Add** (this represents a 2 minute drive time)
 6. Enter a name for the Result layer
+7. Estimate credits and click **Run**. The process may take a minute to complete. The result will look like this:
+
+![image](https://github.com/user-attachments/assets/23332841-7ec3-4ecc-bb95-06832c3b655e)
+
+### Section 9: Enrichment
+
+Using the newly created polygons, we will use the enrichment tool to calculate socio-demographic statistics for the study area.
+
+1. Click the little back arrow to exit the current analysis tool.
+2. Search by keyword, "enrich".
+3. Select **Enrich Layer**
+4. For Input Features, select the drive analysis output layer.
+5. Under Enrichment data, click **+ Variable**. Here you need to make sure that Canada is selected as the country and then you can search by keyword to find the variables of interest. For the sake of this tutorial, select **Households > 2023 Children at Home: Under 5** and select **Income > 2023 Household Median income (current year$)**
+6. Enter a name for the output layer.
 7. Estimate credits and click **Run**.
+
 
 
 
