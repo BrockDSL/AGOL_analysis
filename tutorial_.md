@@ -157,15 +157,30 @@ Alternately, the data can be queried by using various "Select" tools such as *Fi
 
 ### Section 9: Enrichment
 
-Using the newly created polygons, we will use the enrichment tool to calculate socio-demographic statistics for the study area.
+Using the newly created polygons, we will use the enrichment tool to calculate socio-demographic statistics for the study area. These data are calculated from various sources including Statistics Canada and Environics Analytics. 
 
 1. Click the little back arrow to exit the current analysis tool.
 2. Search by keyword, "enrich".
 3. Select **Enrich Layer**
 4. For Input Features, select the drive analysis output layer.
 5. Under Enrichment data, click **+ Variable**. Here you need to make sure that Canada is selected as the country and then you can search by keyword to find the variables of interest. For the sake of this tutorial, select **Households > 2023 Children at Home: Under 5** and select **Income > 2023 Household Median income (current year$)**
-6. Enter a name for the output layer.
-7. Estimate credits and click **Run**.
+6. Click **Select**.
+7. Enter a name for the output layer.
+8. Estimate credits and click **Run**.
+9. A new layer is added to the contents list ![image](https://github.com/user-attachments/assets/4463d42b-b117-4743-933c-9e8513c04517)
+10. Click a feature on the map to see the pop-up with the added data attached.
+
+![image](https://github.com/user-attachments/assets/5c1be69e-d65a-4eb3-a738-24bbda649994)
+
+11. With the enriched layer selected from the Contents listing on the left, click Styles from the right.
+12. Add + field > Children at home
+13. The result tells us where the higher populations live with children at home under the age of 5.
+
+![image](https://github.com/user-attachments/assets/20798c4d-d3cd-4d62-b490-f6aa4c1146ef)
+
+14. 
+
+
 
 
 
