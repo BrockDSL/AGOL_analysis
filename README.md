@@ -1,4 +1,4 @@
-![Tool Logo][imglogo]
+![image](https://github.com/user-attachments/assets/c4db24f0-6608-4e7c-b957-baf555618400)
 
 ### Section 1: Description  
 This tutorial serves as a starting point for students who are interested in learning a bit about the analysis tools in ArcGIS Online. This web-based GIS offers many analysis tools including simple tools such as buffering and selection as well as more advanced GeoAI deep learning tools such as "extract features". 
