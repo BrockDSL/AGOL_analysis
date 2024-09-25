@@ -17,10 +17,9 @@ Parents need infant child care! We’re going to assess a neighbourhood in St. C
 
 [Presentation Slides](https://github.com/BrockDSL/AGOL_analysis/blob/master/ArcGIS%20Online%20Vector%20Analysis%2008232024.pdf)
 
-[Step-by-step tutorial](https://github.com/BrockDSL/AGOL_analysis/blob/master/tutorial_.md)
+[Step-by-step tutorial](tutorial_.md)
 
 [Esri Documentation: Using Analysis Tools](https://doc.arcgis.com/en/arcgis-online/analyze/use-analysis-tools.htm)
-
 
 
 
