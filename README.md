@@ -17,7 +17,7 @@ Parents need infant child care! We’re going to assess a neighbourhood in St. C
 
 insert link to powerpoint
 
-insert link to tutorial
+[Step-by-step tutorial](https://github.com/BrockDSL/AGOL_analysis/blob/master/tutorial_.md)
 
 insert link to further reading
 
