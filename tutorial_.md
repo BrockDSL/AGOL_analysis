@@ -205,7 +205,7 @@ Finally, we will add some labels and save our map.
 
 6. Update the share options, if prompted.
 
-CONGRATULATIONS! You've successfully completed this tutorial introducing ArcGIS Online Analysis Tools! For more information, visit the [Esri documentation](https://doc.arcgis.com/en/arcgis-online/analyze/use-analysis-tools.htm) 
+CONGRATULATIONS! You've successfully completed this tutorial introducing ArcGIS Online Analysis Tools! For more information, visit the [Esri documentation](https://doc.arcgis.com/en/arcgis-online/analyze/use-analysis-tools.htm).
 
 
 
