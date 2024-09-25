@@ -12,7 +12,6 @@ If you are an organization affiliate (i.e. a member of the Brock University comm
 
    ![Brock organization](https://github.com/user-attachments/assets/f0e4734a-af23-4c53-8dbe-480d79e5048e)
 
-
 6. Click **Continue**
 7. Click **BROCK UNIVERSITY**    
 8. This action should direct you to the Brock University authentication page. Enter your Brock credentials and click **Sign in**.  
@@ -133,7 +132,7 @@ Alternately, the data can be queried by using various "Select" tools such as *Fi
 6. Click Style Options > Colour
 7. Here, you can select a different colour ramp and adjust the shape:
 8. Under the Shape slider, shift the option to the middle so the symbol looks more like a donut.
-9. ![image](https://github.com/user-attachments/assets/5f3c227e-ed40-42dc-bfc9-15fe7a8f28f0)
+![image](https://github.com/user-attachments/assets/5f3c227e-ed40-42dc-bfc9-15fe7a8f28f0)
 
 ![symbol image](https://github.com/user-attachments/assets/62216650-32df-4414-83ea-43929fa21935)
 
