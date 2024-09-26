@@ -93,7 +93,7 @@ The default view shows Licensed Child Care Facilities for the entire region. Usi
 
 Alternately, the data can be queried by using various "Select" tools such as *Find by attributes and location*
 
-1. Click Analysis Tools ![image](https://github.com/user-attachments/assets/d81e3294-6afd-408b-bbd8-78e0f09a3a8c)
+1. From the right side, click Analysis Tools ![image](https://github.com/user-attachments/assets/d81e3294-6afd-408b-bbd8-78e0f09a3a8c)
 
 2. Click Tools.
 3. Search using keyword "Find".
@@ -138,15 +138,15 @@ Alternately, the data can be queried by using various "Select" tools such as *Fi
 
 
 10. Click Done, done and done. The symbol now represents the total number of spaces (size) and the break down of those spaces by age (colour).
-11. To view the legend, click ![legend image](https://github.com/user-attachments/assets/7f5b54d5-029d-42ab-8317-54c96bd53a2b)
+11. To view the legend, click ![legend image](https://github.com/user-attachments/assets/7f5b54d5-029d-42ab-8317-54c96bd53a2b) on the left.
 
 ![symbols and legend image](https://github.com/user-attachments/assets/4ca436e6-f6f9-489e-96ad-b17c8630d5c2)
 
 ### Section 8: Drive Analysis
 
-1. Click the Analyis tools. (You may have to click the little back arrow to exit the active tool)
-2. Search by keyword **Drive**
-3. Select *Generate travel areas*
+1. Click the Analyis tools ![image](https://github.com/user-attachments/assets/d81e3294-6afd-408b-bbd8-78e0f09a3a8c). (You may have to click the little back arrow to exit the active tool)
+2. Search by keyword **Drive**.
+3. Select *Generate travel areas*.
 4. The input layer is the layer representing Neighbourhood 8.
 5. Cut-offs > 2, click **+ Add** (this represents a 2 minute drive time)
 6. Enter a name for the Result layer
@@ -195,9 +195,9 @@ This section is optional but your map will thank you for paying a bit of attenti
 Finally, we will add some labels and save our map.
 
 1. Select the layer representing child care facilities.
-2. Click **Labels**
-3. Toggle *Enable labels*
-4. Add Label Class > Select label field **Program**
+2. Click **Labels**.
+3. Toggle *Enable labels*.
+4. Add Label Class > Select label field **Program**.
 
 ![image](https://github.com/user-attachments/assets/69bf5476-4914-4ff2-8338-13e9a33dc54f)
 
