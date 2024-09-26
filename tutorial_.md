@@ -62,11 +62,11 @@ The New Map Viewer is composed of a dark toolbar on the left and a light toolbar
 
    ![image showing ArcGIS GeoService entry](https://github.com/user-attachments/assets/0a532876-ec7a-46c0-a2e1-9211f97f6b34)
 
-5. Right-click the URL and select **copy link address**
----
+5. Right-click the URL and select **copy link address** 
+
    ![image](https://github.com/user-attachments/assets/905c1842-a258-4080-9093-b4e01d37b34b)
 
----
+
 
 ### Section 4: Adding a GeoService to ArcGIS Online
 
