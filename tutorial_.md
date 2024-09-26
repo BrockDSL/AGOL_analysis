@@ -7,7 +7,7 @@ If you are an organization affiliate (i.e. a member of the Brock University comm
 
 1. Go to [arcgis.com](https://arcgis.com)    
 2. Click **Sign in** 
-3. Click **Your ArcGIS Organization's URL**  
+3. Click "**Your ArcGIS Organization's URL**"  
 4. Complete the URL by entering the text **brock**  
 
    ![Brock organization](https://github.com/user-attachments/assets/f0e4734a-af23-4c53-8dbe-480d79e5048e)
