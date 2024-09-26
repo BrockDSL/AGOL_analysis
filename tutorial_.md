@@ -97,14 +97,14 @@ Alternately, the data can be queried by using various "Select" tools such as *Fi
 
 2. Click Tools.
 3. Search using keyword "Find".
-4. Select *Find by attributes and location* ![image](https://github.com/user-attachments/assets/29e351fd-a8bb-4e17-9660-5a8f5962e275)
+4. Select *Find by attributes and location*  ![image](https://github.com/user-attachments/assets/29e351fd-a8bb-4e17-9660-5a8f5962e275)
 
 5. Build a new query. The Query builder opens.
 6. Select the layer you want to build the query on (i.e. Licensed Child Care Centres)
 7. Select "Attribute Expression" and click Next.
 8. Enter the query statement **NBH_ID=ST8** (this tells the software to isolate only the St. Catharines neighbourhood with I.D. "ST8")
 
-   ![image](https://github.com/user-attachments/assets/d0968341-d059-442e-9ea8-3c9467d7cbf7)
+    ![image](https://github.com/user-attachments/assets/d0968341-d059-442e-9ea8-3c9467d7cbf7)
 
 9. Click Add.
 10. Provide an output name.
@@ -113,7 +113,7 @@ Alternately, the data can be queried by using various "Select" tools such as *Fi
 13. Turn off (click the eyeball icon beside the layer) the original child care data layer.
 14. Use the zoom tools or mouse scroll wheel to zoom to the neighbourhood. It should look like this:
 
-   ![image](https://github.com/user-attachments/assets/fd7a8f46-f516-414c-afd7-fdd5aa8b20dd)
+    ![image](https://github.com/user-attachments/assets/fd7a8f46-f516-414c-afd7-fdd5aa8b20dd)
 
 
 ### Section 7: Style by Category
@@ -123,24 +123,24 @@ Alternately, the data can be queried by using various "Select" tools such as *Fi
 
 3. Click + Field to add each field associated with an age group.
 
-   ![image](https://github.com/user-attachments/assets/4433888b-9c85-44c7-ad5d-01c9c3393039)
+    ![image](https://github.com/user-attachments/assets/4433888b-9c85-44c7-ad5d-01c9c3393039)
 
-   ![image](https://github.com/user-attachments/assets/71813786-e212-4570-b895-20acaeab6d68)
+    ![image](https://github.com/user-attachments/assets/71813786-e212-4570-b895-20acaeab6d68)
 
 4. Click Add.
 5. Scroll down (if necessary) and click **Charts and Size"" ![image](https://github.com/user-attachments/assets/6b2b4032-2bd2-4297-8aea-60c18c023a7e)
 6. Click Style Options > Colour
 7. Here, you can select a different colour ramp and adjust the shape:
 8. Under the Shape slider, shift the option to the middle so the symbol looks more like a donut.
-   ![image](https://github.com/user-attachments/assets/5f3c227e-ed40-42dc-bfc9-15fe7a8f28f0)
+    ![image](https://github.com/user-attachments/assets/5f3c227e-ed40-42dc-bfc9-15fe7a8f28f0)
 
-   ![symbol image](https://github.com/user-attachments/assets/62216650-32df-4414-83ea-43929fa21935)
+    ![symbol image](https://github.com/user-attachments/assets/62216650-32df-4414-83ea-43929fa21935)
 
 
 10. Click Done, done and done. The symbol now represents the total number of spaces (size) and the break down of those spaces by age (colour).
 11. To view the legend, click ![legend image](https://github.com/user-attachments/assets/7f5b54d5-029d-42ab-8317-54c96bd53a2b) on the left.
 
-  ![symbols and legend image](https://github.com/user-attachments/assets/4ca436e6-f6f9-489e-96ad-b17c8630d5c2)
+    ![symbols and legend image](https://github.com/user-attachments/assets/4ca436e6-f6f9-489e-96ad-b17c8630d5c2)
 
 ### Section 8: Drive Analysis
 
@@ -152,8 +152,8 @@ Alternately, the data can be queried by using various "Select" tools such as *Fi
 6. Enter a name for the Result layer
 7. Estimate credits and click **Run**. The process may take a minute to complete. The result will look like this:
 
-   ![image](https://github.com/user-attachments/assets/23332841-7ec3-4ecc-bb95-06832c3b655e)
-
+    ![image](https://github.com/user-attachments/assets/23332841-7ec3-4ecc-bb95-06832c3b655e)
+ 
 ### Section 9: Enrichment
 
 Using the newly created polygons, we will use the enrichment tool to calculate socio-demographic statistics for the study area. These data are calculated from various sources including Statistics Canada and Environics Analytics. 
@@ -169,13 +169,13 @@ Using the newly created polygons, we will use the enrichment tool to calculate s
 9. A new layer is added to the contents list ![image](https://github.com/user-attachments/assets/4463d42b-b117-4743-933c-9e8513c04517)
 10. Click a feature on the map to see the pop-up with the added data attached.
 
-   ![image](https://github.com/user-attachments/assets/5c1be69e-d65a-4eb3-a738-24bbda649994)
+    ![image](https://github.com/user-attachments/assets/5c1be69e-d65a-4eb3-a738-24bbda649994)
 
 11. With the enriched layer selected from the Contents listing on the left, click Styles from the right.
 12. Add + field > Children at home
 13. The result tells us where the higher populations live with children at home under the age of 5.
 
-   ![image](https://github.com/user-attachments/assets/20798c4d-d3cd-4d62-b490-f6aa4c1146ef)
+    ![image](https://github.com/user-attachments/assets/20798c4d-d3cd-4d62-b490-f6aa4c1146ef)
 
 ### Section 10: Make it "POP"!
 
@@ -187,7 +187,7 @@ This section is optional but your map will thank you for paying a bit of attenti
 3. Click Effects ![image](https://github.com/user-attachments/assets/c9a7a239-1075-424e-a58d-83d532f100fc) and toggle on **Drop Shadow**
 4. Select the enriched layer and click **Properties** ![image](https://github.com/user-attachments/assets/09f4370d-cb5f-4b20-a08b-e4dcb86494a2) > Blending > Contrast > Overlay
 
-   ![image](https://github.com/user-attachments/assets/2158e5fa-1197-48b1-a82b-04cc8a6eb9c9)
+    ![image](https://github.com/user-attachments/assets/2158e5fa-1197-48b1-a82b-04cc8a6eb9c9)
 
 
 ### Section 11: Labels
@@ -199,7 +199,7 @@ Finally, we will add some labels and save our map.
 3. Toggle *Enable labels*.
 4. Add Label Class > Select label field **Program**.
 
-   ![image](https://github.com/user-attachments/assets/69bf5476-4914-4ff2-8338-13e9a33dc54f)
+    ![image](https://github.com/user-attachments/assets/69bf5476-4914-4ff2-8338-13e9a33dc54f)
 
 5. Save your map. ![image](https://github.com/user-attachments/assets/6f9b2b34-888e-4def-92d2-70ec01c2b3e9)
 
